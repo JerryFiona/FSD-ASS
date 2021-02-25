@@ -1,0 +1,501 @@
+ID,FirstName,LastName,Address,Suburb,State,Postcode,PropertyPrice,Property Type,Bedrooms,Bathrooms,Parking
+1,Brent,Ahlborn,86351 Pine Ave,Oaklands Park,SA,5046,500426.00,House,4,5,5
+2,Lenora,Delacruz,5400 Market St,Turill,NSW,2850,502303.00,House,4,2,5
+3,Tashia,Charney,9 13th Ave S,Shailer Park,QLD,4128,504882.00,House,5,1,1
+4,Dylan,Chaleun,5 Montana Ave,Lilydale,QLD,4344,510902.00,House,3,3,4
+5,Adaline,Galagher,32716 N Michigan Ave #82,Barooga,NSW,3644,512471.00,Studio,1,1,1
+6,Isaiah,Kueter,8 W Virginia St,Amphitheatre,VIC,3468,513077.00,House,3,2,4
+7,Jeannetta,Vonstaden,269 Executive Dr,Ilford,NSW,2850,515887.00,House,2,1,4
+8,Louann,Susmilch,6 Lafayette St #3034,Wyandra,QLD,4489,529704.00,Apartment,2,2,5
+9,Dan,Platz,5210 E Airy St #2,Brandy Creek,QLD,4800,530972.00,Apartment,1,1,1
+10,Fidelia,Dampier,947 W Harrison St #640,Dangar Island,NSW,2083,531643.00,Studio,1,1,1
+11,Francene,Skursky,5 30w W #3083,Hillston,NSW,2675,531721.00,Apartment,5,2,1
+12,Haley,Vaughn,29 Nottingham Way #926,Montrose,VIC,3765,536099.00,Apartment,5,5,5
+13,Laine,Killean,767 9th Ave Sw,Braybrook,VIC,3019,536193.00,House,2,1,3
+14,Ashton,Sutherburg,960 S Arroyo Pkwy,South Hobart,TAS,7004,543958.00,House,4,2,4
+15,Julieta,Cropsey,9 Commerce Cir,Kingaroy,QLD,4610,543970.00,House,5,3,3
+16,Leonor,Prez,968 Delaware Ave,Waterloo,NSW,2017,545004.00,House,5,3,4
+17,Aaron,Kloska,423 S Navajo St #56,Brookhill,QLD,4816,547431.00,Apartment,4,4,1
+18,Mariko,Stayer,534 Schoenborn St #51,Hamel,WA,6215,553679.00,Apartment,4,2,1
+19,Colene,Tolbent,891 Union Pacific Ave #8463,Gloucester,NSW,2422,555135.00,Apartment,1,1,4
+20,Reita,Tabar,79620 Timber Dr,Arthurville,NSW,2820,559419.00,Terrace,4,5,5
+21,Frederick,Tamburello,262 8th St,Simpsons Bay,TAS,7150,560502.00,House,2,1,3
+22,Julian,Laprade,5 Pittsburg St,Mungabunda,QLD,4718,563243.00,House,3,2,1
+23,Dorethea,Taketa,7 N 4th St,Lower Cressbrook,QLD,4313,564181.00,House,5,4,1
+24,Alva,Shoulders,461 S Fannin Ave,Welshpool,WA,6106,569335.00,House,2,1,3
+25,Odelia,Hutchin,374 Sunrise Ave,Gorrie,WA,6556,569780.00,House,2,1,4
+26,King,Picton,3 W Pioneer Dr,Preston Beach,WA,6215,572254.00,House,2,1,2
+27,Carli,Bame,6584 S Bascom Ave #371,Elanora,QLD,4221,578345.00,Studio,1,1,1
+28,Lauran,Tovmasyan,199 Maple Ave,Boolaroo,NSW,2284,583083.00,House,4,3,1
+29,Elliot,Scatton,5 W Allen St,Mccullys Gap,NSW,2333,587939.00,House,5,1,2
+30,Ardella,Dieterich,94 Delta Fair Blvd #2702,Runnymede,QLD,4615,588793.00,Apartment,5,4,3
+31,Cherry,Roh,75 Blackington Ave,North Cascade,WA,6445,592754.00,House,5,2,2
+32,Charolette,Turk,1 Wyckoff Ave,Wilmington,SA,5485,599972.00,House,3,3,3
+33,Dorian,Eischens,1 Rock Island Rd #8,Bell,NSW,2786,600554.00,Apartment,2,1,5
+34,Alease,Strawbridge,35673 Annapolis Rd #190,Ascot,QLD,4359,605507.00,Apartment,1,2,3
+35,Ora,Handrick,466 Hillsdale Ave,Rocklands,VIC,3401,608703.00,House,4,1,4
+36,Dexter,Prosienski,490 Court St,Nyora,VIC,3987,609039.00,House,4,4,3
+37,Julio,Puccini,2244 Franquette Ave,Gorokan,NSW,2263,610454.00,House,5,1,3
+38,Mary,Irene,3 N Michigan Ave,Warding East,WA,6405,612050.00,House,2,1,4
+39,Josefa,Oakland,259 1st Ave,Mccutcheon,QLD,4856,613717.00,House,5,2,4
+40,German,Dones,9 N Nevada Ave,Woronora,NSW,2232,614426.00,House,4,2,5
+41,Dahlia,Tummons,6508 Adams St #32,Port Fairy,VIC,3284,615463.00,Apartment,3,1,1
+42,Lacey,Francis,44 105th Ave,Hunchy,QLD,4555,617669.00,House,5,5,2
+43,Gerardo,Woodka,69206 Jackson Ave,Talmalmo,NSW,2640,622141.00,Terrace,5,5,1
+44,Quinn,Weissbrodt,7659 Market St,Premer,NSW,2381,622402.00,House,3,1,4
+45,Keena,Rebich,3713 Poway Rd,Sawtell,NSW,2452,624370.00,Terrace,2,2,2
+46,Muriel,Drozdowski,1 S Maryland Pky,Durham Downs,QLD,4454,629857.00,House,5,5,3
+47,Tori,Tepley,1036 Malone Rd,Uarbry,NSW,2329,631043.00,House,2,2,3
+48,Brandee,Svoboda,7 10th St W,Walyormouring,WA,6460,634857.00,House,3,5,5
+49,Isadora,Yurick,6 Mahler Rd,Pacific Paradise,QLD,4564,637070.00,House,5,1,1
+50,Tabetha,Bai,2 Gateway Ctr,Upper Mount Gravatt,QLD,4122,642857.00,House,4,1,5
+51,Mickie,Upton,900 W Wood St,Barmaryee,QLD,4703,645100.00,House,3,3,5
+52,Alica,Alerte,9892 Hernando W,Grevillia,NSW,2474,646322.00,House,5,2,4
+53,Alexis,Morguson,9 Old York Rd #418,Weetulta,SA,5573,646536.00,Apartment,1,1,5
+54,Wilford,Pata,8855 North Ave,Ashmore,QLD,4214,648258.00,House,5,1,3
+55,Rose,Jebb,27916 Tarrytown Rd,Wooloowin,QLD,4030,651953.00,Terrace,5,2,1
+56,Andrew,Keks,51 Bridge Ave,Carwarp,VIC,3494,657744.00,House,3,1,1
+57,Henriette,Gish,43 E Main St,Baranduda,VIC,3691,661949.00,House,4,2,4
+58,Francoise,Byon,5496 Ne Columbia Blvd,Klemzig,SA,5087,673759.00,House,3,2,1
+59,Rosendo,Jelsma,94 I 55s S,Applecross,WA,6953,675825.00,House,5,4,2
+60,Iraida,Sionesini,94 S Jefferson Rd,Modewarre,VIC,3240,680827.00,House,2,1,5
+61,Fredric,Johanningmeie,23 S Orange Ave #55,Wardell,NSW,2477,690240.00,Studio,1,1,1
+62,Carylon,Bayot,5905 S 32nd St,Alexandra,VIC,3714,690945.00,House,2,2,2
+63,Terina,Wildeboer,462 Morris Ave,Seddon,VIC,3011,696511.00,House,2,1,3
+64,Julene,Lauretta,1881 Market St,Mole Creek,TAS,7304,699801.00,House,4,5,2
+65,Malcolm,Gohlke,53247 Montgomery St #36,Southtown,QLD,4350,701056.00,Apartment,5,1,1
+66,Raelene,Legeyt,8818 Century Park E #33,Oak Park,VIC,3046,702665.00,Apartment,4,5,3
+67,Bernadine,Elamin,61550 S Figueroa St,Waverley,NSW,2024,706373.00,House,4,5,5
+68,Francesco,Kloos,82136 Post Rd,Rocky Gully,WA,6397,708868.00,House,4,5,2
+69,Paris,Kinnison,2 Old Corlies Ave,Eastern Heights,QLD,4305,709930.00,House,3,3,2
+70,Oren,Lobosco,1585 Salem Church Rd #59,Dangar Island,NSW,2083,721595.00,Apartment,2,2,4
+71,Arleen,Kane,78717 Graves Ln,Eagle Farm,QLD,4009,722772.00,House,3,3,5
+72,Sabrina,Rabena,327 Ward Pky,Bayles,VIC,3981,723989.00,House,2,2,5
+73,Laura,Bourbonnais,2 N Valley Mills Dr,Cape Portland,TAS,7264,724362.00,Terrace,2,2,1
+74,Ethan,Quintero,2 Ellis Rd,East Damboring,WA,6608,728899.00,House,2,1,2
+75,Desiree,Englund,9495 Central Hwy #66,East Bowes,WA,6535,729465.00,Apartment,3,4,3
+76,Tien,Kinney,9 9th St #4,Lillimur,VIC,3420,729633.00,Apartment,4,2,4
+77,Ming,Thaxton,8 N Town East Blvd,Forrest,VIC,3236,735658.00,House,2,1,2
+78,Micheal,Ocken,4 E Aven #284,Freemans Waterhole,NSW,2323,738231.00,Studio,1,1,1
+79,Felicitas,Gong,173 Howard Ave,Weengallon,QLD,4497,739650.00,House,2,1,2
+80,Buffy,Stitely,5 Madison St #4651,Police Point,TAS,7116,741164.00,Apartment,3,1,2
+81,Domingo,Mckale,80968 Armitage Ave,Marla,SA,5724,741557.00,House,5,2,4
+82,Arthur,Diniz,79819 Palmetto Ave,Travancore,VIC,3032,749548.00,House,4,4,5
+83,Holley,Worland,2 Route 9,Blue Haven,NSW,2262,757868.00,House,3,4,4
+84,Paulina,Maker,6 S Hanover Ave,Maylands,WA,6931,762437.00,Terrace,2,2,2
+85,Ernestine,Paavola,6 E Gloria Switch Rd #96,Yorkrakine,WA,6409,764234.00,Studio,1,1,1
+86,Theron,Jarding,8839 Ventura Blvd,Blanchetown,SA,5357,766891.00,Terrace,3,1,5
+87,Maybelle,Bewley,387 Airway Cir #62,Mapleton,QLD,4560,774723.00,Apartment,2,1,4
+88,Tomas,Fults,3 Hwy 61 #2491,Mirani,QLD,4754,775359.00,Studio,1,1,1
+89,Honey,Lymaster,7 Wilshire Blvd,Taringa,QLD,4068,776746.00,Terrace,5,2,3
+90,Marica,Tarbor,68828 S 32nd St #6,Rosegarland,TAS,7140,778557.00,Apartment,4,3,4
+91,Karon,Etzler,97539 Connecticut Ave Nw #3586,Buckland,TAS,7190,781302.00,Studio,1,1,1
+92,Theresia,Salomone,1337 N 26th St,Bundall,QLD,4217,790727.00,House,5,3,4
+93,Jacklyn,Wojnar,16949 Harristown Rd,Summer Hill,NSW,2287,795797.00,House,5,5,4
+94,Catherin,Aguele,75962 E Drinker St,Sunny Nook,QLD,4605,797754.00,Terrace,1,2,1
+95,Sherman,Mahmud,9 Memorial Pky Nw,Harris Park,NSW,2150,802840.00,House,5,1,5
+96,Armando,Barkley,70680 S Rider Trl,Watercarrin,WA,6407,804599.00,House,2,1,4
+97,Rebbecca,Didio,171 E 24th St,Leith,TAS,7315,809145.00,Terrace,2,2,3
+98,Gladys,Schmale,514 Glenn Way,Wirrulla,SA,5661,814021.00,House,2,1,5
+99,Felicitas,Orlinski,9 Beverly Rd #5,Emerald,VIC,3782,815065.00,Apartment,2,1,4
+100,Twanna,Sieber,66094 Pioneer Rd,Upper Glastonbury,QLD,4570,818085.00,House,3,2,2
+101,Veda,Mishkin,98247 Russell Blvd,Stafford Heights,QLD,4053,819883.00,House,5,1,5
+102,Micah,Shear,324 Shawnee Mission Pky,Scaddan,WA,6447,823503.00,House,2,1,4
+103,Shawn,Weibe,4 Middletown Blvd #33,Camena,TAS,7316,825285.00,Apartment,5,4,4
+104,Dana,Vock,49 Walnut St,Yarralumla,ACT,2600,827265.00,House,5,2,1
+105,Santos,Wisenbaker,67729 180th St,Allworth,NSW,2425,833278.00,House,2,1,5
+106,Gennie,Pastorino,5 Austin Ave,Charleston,SA,5244,837642.00,House,2,1,3
+107,Rebeca,Baley,9591 Bayshore Rd #637,Mirrool,NSW,2665,840061.00,Apartment,2,1,2
+108,Gracie,Vicente,4 W 18th St,Oxley,VIC,3678,847998.00,House,4,2,3
+109,Brittney,Lolley,2391 Pacific Blvd,Ulverstone,TAS,7315,848748.00,House,5,2,2
+110,Pearly,Hedstrom,62296 S Elliott Rd #2,Wandering,WA,6308,857389.00,Studio,1,1,1
+111,Shawna,Albrough,43157 Cypress St,Ringwood,QLD,4343,860526.00,Terrace,5,3,4
+112,Roy,Nybo,823 Fishers Ln,Red Hill,ACT,2603,861120.00,Terrace,1,2,4
+113,Desmond,Amuso,79 Runamuck Pl,Caparra,NSW,2429,862251.00,House,2,1,4
+114,Marylou,Lofts,812 Berry Blvd #96,Houston,VIC,3128,886899.00,Studio,1,1,1
+115,Elmer,Redlon,53 Euclid Ave,Forbes,NSW,2871,889759.00,House,2,2,1
+116,Onita,Milbrandt,93 Bloomfield Ave #829,Wagga Wagga South,NSW,2650,891686.00,Studio,1,1,1
+117,Cary,Orazine,16 Governors Dr Sw,Melrose,SA,5483,893323.00,House,2,2,5
+118,Magda,Lindbeck,6 Kings St #4790,Emerald Beach,NSW,2456,898180.00,Studio,1,1,1
+119,Royal,Costeira,970 Waterloo Rd,Ellis Beach,QLD,4879,901243.00,Terrace,5,5,3
+120,Verdell,Garness,39 Plummer St,Thornton,NSW,2322,903881.00,House,2,2,2
+121,Lindsey,Rathmann,5 Main St,Kongorong,SA,5291,905421.00,House,2,2,1
+122,Aileen,Menez,8 S Main St,Manjimup,WA,6258,905690.00,House,4,2,5
+123,Annalee,Graleski,9 Green Rd #5877,Darbys Falls,NSW,2793,907080.00,Studio,1,1,1
+124,Stanford,Waganer,98021 Harwin Dr,East Nabawa,WA,6532,907904.00,House,2,2,5
+125,Cassie,Digregorio,8650 S Valley View Bld #6941,Condobolin,NSW,2877,910327.00,Apartment,2,2,1
+126,Anastacia,Carranzo,654 Se 29th St,Waratah West,NSW,2298,912597.00,House,3,1,1
+127,Ryann,Riston,38494 Port Reading Ave,Milton,QLD,4064,920057.00,House,5,5,3
+128,Eliseo,Mikovec,25488 Brickell Ave,Ocean Shores,NSW,2483,924271.00,House,2,2,3
+129,Marilynn,Herrera,717 Midway Pl,Tawonga,VIC,3697,929311.00,House,3,5,1
+130,Tamra,Kenfield,481 925n N #959,Kealy,WA,6280,931610.00,Apartment,5,4,2
+131,Rachael,Crawley,82 Hopkins Plz,Inkpen,WA,6302,934529.00,House,5,3,4
+132,Linsey,Gedman,1529 Prince Rodgers Ave,Kennedy,QLD,4816,935116.00,Terrace,3,4,3
+133,Karol,Sarkissian,9296 Prince Rodgers Ave,Chatsworth,NSW,2469,935526.00,House,3,1,2
+134,Son,Magnotta,8 Collins Ave,Collingullie,NSW,2650,942604.00,House,5,4,4
+135,Carri,Palaspas,51255 Tea Town Rd #9,Minnenooka,WA,6532,942937.00,Studio,1,1,1
+136,Glynda,Sanzenbacher,80 Monroe St,Kinglake West,VIC,3757,947603.00,House,5,5,4
+137,Omega,Mangino,495 Distribution Dr #996,Gnotuk,VIC,3260,947886.00,Studio,1,1,1
+138,Kimberely,Weyman,7721 Harrison St,Kingsway West,NSW,2208,953524.00,House,2,1,4
+139,Emeline,Sotelo,46 Broadway St,Elimbah,QLD,4516,955909.00,House,2,1,4
+140,Ronald,Gayner,438 E Reynolds Rd #239,University Of Tasmania,TAS,7005,956112.00,Apartment,4,4,2
+141,Huey,Bukovac,6 Jefferson St,Middleton,SA,5213,959460.00,House,2,1,1
+142,Florinda,Gudgel,53597 W Clarendon Ave,Halton,NSW,2311,960464.00,House,3,4,1
+143,Audria,Piccinich,13 Blanchard St #996,Coober Pedy,SA,5723,963579.00,Studio,1,1,1
+144,Dannette,Heimbaugh,5 Carpenter Ave,Breakaway,QLD,4825,964841.00,House,3,5,5
+145,Elin,Koerner,8 Cabot Rd,Wayville,SA,5034,968315.00,House,2,1,5
+146,Jospeh,Couzens,2749 Van Nuys Blvd,Panmure,VIC,3265,973753.00,House,3,2,3
+147,Amos,Limberg,8 2nd St,Don,TAS,7310,975157.00,House,2,2,5
+148,Gwen,Julye,8 Old County Rd #3,Alvie,VIC,3249,982950.00,Apartment,3,5,3
+149,Georgeanna,Silverstone,185 W Guadalupe Rd,Steels Creek,VIC,3775,987903.00,House,4,4,2
+150,Casandra,Gordis,6 Walnut St,Chippendale,NSW,2008,990863.00,House,4,3,2
+151,Jesusita,Druck,9526 Lincoln St,Munno Para,SA,5115,1001418.00,House,2,1,1
+152,Jacquelyne,Rosso,6940 Prospect Pl,Caldwell,NSW,2710,1003419.00,House,2,1,3
+153,Karima,Cheever,20907 65s S,Woodberry,NSW,2322,1007079.00,House,4,5,3
+154,Sanjuana,Goodness,343 E Main St,Maraylya,NSW,2765,1007126.00,House,2,1,3
+155,Jill,Davoren,26 Old William Penn Hwy,Boynewood,QLD,4626,1008058.00,House,2,2,5
+156,Stefany,Figueras,37 Saint Louis Ave #292,Lenswood,SA,5240,1011808.00,Studio,1,1,1
+157,Omer,Radel,678 S Main St,Hill River,WA,6521,1012267.00,House,3,1,5
+158,Mertie,Kazeck,35662 S University Blvd,Guildford,WA,6935,1017443.00,House,2,1,2
+159,Pa,Badgero,20 Meadow Ln,Pakenham Upper,VIC,3810,1023793.00,House,2,1,3
+160,Elenora,Handler,8 Middletown Blvd #708,Wardering,WA,6311,1024519.00,Apartment,1,1,2
+161,Leandro,Bolka,1886 2nd Ave,Wattle Hill,TAS,7172,1024911.00,House,2,1,3
+162,Rosenda,Petteway,66 Congress St,Caroline Springs,VIC,3023,1038852.00,House,2,1,4
+163,Aretha,Bodle,9561 Chartres St,Parndana,SA,5220,1039757.00,House,5,5,3
+164,Coletta,Thro,64865 Main St,North Fremantle,WA,6159,1041509.00,House,2,1,5
+165,Katy,Saltourides,5040 Teague Rd #65,Junee,NSW,2663,1043617.00,Studio,1,1,1
+166,Na,Hodges,5 Aquarium Pl #1,Ongerup,WA,6336,1045449.00,Studio,1,1,1
+167,Tyisha,Layland,270 5th Ave,Eastwood,SA,5063,1047196.00,House,5,2,3
+168,Major,Studwell,5 Buford Hwy Ne #3,Allora,QLD,4362,1048498.00,Studio,1,1,1
+169,Michael,Orehek,892 Sw Broadway #8,Millers Point,NSW,2000,1053915.00,Studio,1,1,1
+170,Isreal,Calizo,2 Landmeier Rd,Wombeyan Caves,NSW,2580,1057615.00,House,3,3,1
+171,Nicholle,Hulme,7 N Glenn Rd,Whetstone,QLD,4387,1058872.00,House,5,2,4
+172,Tegan,Ebershoff,28 Aaronwood Ave Ne,Coombell,NSW,2470,1059494.00,House,4,3,2
+173,Micaela,Shiflett,4 Commerce Center Dr,Nailsworth,SA,5083,1061023.00,House,2,1,4
+174,Thomasena,Graziosi,5 Jackson St,Neerabup,WA,6031,1062218.00,House,4,1,1
+175,Della,Selestewa,64 Prairie Ave,Gillieston Heights,NSW,2321,1062574.00,House,5,2,1
+176,Antonio,Eighmy,1758 Park Pl,Eaglemont,VIC,3084,1065743.00,House,5,2,2
+177,Marcos,Seniff,228 S Tyler St,Emerald,VIC,3782,1069028.00,House,3,5,4
+178,Lawana,Yuasa,77818 Prince Drew Rd,Cape Paterson,VIC,3995,1069988.00,House,5,2,1
+179,Jamey,Tetter,28 Standiford Ave #6,Bundaberg West,QLD,4670,1073956.00,Studio,1,1,1
+180,Delbert,Houben,59 Murray Hill Pky,Mitta Mitta,VIC,3701,1075421.00,House,5,3,2
+181,Merrilee,Fajen,1 Jenks Ave,Upper Kedron,QLD,4055,1077481.00,House,2,1,1
+182,Nenita,Mckenna,709 New Market St,Botany,NSW,1455,1078733.00,House,3,3,2
+183,Gianna,Eilers,7 Valley Blvd,Buchan,VIC,3885,1079405.00,House,5,5,1
+184,Patria,Popa,21 W 2nd St,Killabakh,NSW,2429,1079776.00,House,2,1,5
+185,Catrice,Fowlkes,39828 Abbott Rd,Waterfront Place,QLD,4001,1079991.00,House,4,3,1
+186,Hailey,Kopet,5 France Ave S,Tanbar,QLD,4481,1081030.00,House,4,5,1
+187,Annamae,Lothridge,584 Meridian St #997,Civic Square,ACT,2608,1081924.00,Apartment,5,1,1
+188,Ngoc,Guglielmina,156 Morris St,Darke Peak,SA,5642,1085138.00,House,2,2,1
+189,Alpha,Prudhomme,979 S La Cienega Blvd #627,Tarong,QLD,4615,1086069.00,Apartment,3,1,1
+190,Burma,Noa,79 State Route 35,Ripponlea,VIC,3185,1086733.00,House,2,2,3
+191,Louis,Brueck,73 12th St,Larrakeyah,NT,820,1090459.00,House,2,1,4
+192,Lore,Brothers,70086 Division St #3,Kallista,VIC,3791,1096270.00,Apartment,3,2,3
+193,Keva,Moehring,37564 Grace Ln,Salamander Bay,NSW,2317,1098813.00,House,4,2,2
+194,Keshia,Wasp,75 E Main,Adelaide River,NT,846,1100522.00,House,3,1,2
+195,Leatha,Block,6926 Orange Ave,Two Rocks,WA,6037,1106214.00,House,4,1,1
+196,Pearlene,Boudrie,8978 W Henrietta Rd,Minden,QLD,4311,1107411.00,Terrace,3,1,1
+197,Jeniffer,Jezek,1089 Pacific Coast Hwy,Myrniong,VIC,3341,1108134.00,House,2,1,4
+198,Reiko,Dejarme,57869 Alemany Blvd,Bentley Dc,WA,6983,1108334.00,House,2,1,1
+199,Shantell,Lizama,9787 Dunksferry Rd,Logan Village,QLD,4207,1111063.00,House,2,1,2
+200,Jodi,Naifeh,89 N Himes Ave,Dural,NSW,2330,1111421.00,House,5,3,2
+201,Candra,Deritis,43 Nolan St,Battery Point,TAS,7004,1111639.00,House,5,3,1
+202,Rene,Burnsworth,80289 Victory Ave #9,Farrell Flat,SA,5416,1112600.00,Studio,1,1,1
+203,Dorathy,Miskelly,73 Robert S,Westerway,TAS,7140,1120544.00,House,3,5,1
+204,Annice,Kunich,406 E 4th St,Tyagarah,NSW,2481,1126735.00,House,3,2,1
+205,Alfreda,Delsoin,4373 Washington St,Bongeen,QLD,4356,1133047.00,House,5,1,3
+206,Gerald,Chrusciel,76596 Pleasant Hill Rd,Townsville Milpo,QLD,4813,1139596.00,House,4,2,4
+207,Anthony,Stever,91114 Grand Ave,Hunchy,QLD,4555,1144480.00,House,4,4,1
+208,Jamal,Korczynski,404 Broxton Ave,Bateau Bay,NSW,2261,1150034.00,Terrace,3,2,3
+209,Annita,Lek,86274 Howell Mill Rd Nw,Karama,NT,812,1151604.00,House,5,2,2
+210,Amira,Chudej,3684 N Wacker Dr,Rockside,QLD,4343,1151982.00,Terrace,5,4,1
+211,Irving,Plocica,65 Clayton Rd,Cullulleraine,VIC,3496,1161039.00,House,3,1,2
+212,Tricia,Peressini,3 Industrial Blvd,Pintharuka,WA,6623,1162613.00,House,4,4,3
+213,Frederic,Schimke,705 Stanwix St,Mount Martha,VIC,3934,1163843.00,House,4,2,2
+214,Tora,Telch,6139 Contractors Dr #450,Buckland Park,SA,5120,1167293.00,Apartment,3,1,1
+215,Sharan,Wodicka,8454 6  17 M At Bradleys,Shenton Park,WA,6008,1167590.00,House,5,5,4
+216,Lynda,Lazzaro,20214 W Main St,Macks Creek,VIC,3971,1171050.00,Terrace,1,1,1
+217,Darnell,Moothart,40 E 19th Ave,Empire Bay,NSW,2257,1173753.00,Terrace,2,1,5
+218,Lina,Schwiebert,68538 N Bentz St #1451,Koorlong,VIC,3501,1176463.00,Studio,1,1,1
+219,Hyman,Hegeman,1 S Marginal Rd,Flinders University,SA,5042,1180529.00,House,2,1,3
+220,Laurene,Bennett,5 Richmond Ct,North Perth,WA,6906,1182609.00,House,5,4,4
+221,Anna,Ovit,722 E Liberty St,Bygalorie,NSW,2669,1188205.00,House,4,1,1
+222,Eveline,Brickhouse,288 N 168th Ave #266,Camberwell West,VIC,3124,1188684.00,Apartment,1,1,3
+223,Vanesa,Glockner,28220 Park Avenue W,Taragoola,QLD,4680,1189060.00,House,2,1,3
+224,Yuonne,Carabajal,2714 Beach Blvd,Changerup,WA,6394,1194221.00,House,3,5,5
+225,Luis,Yerry,72984 W 1st St,Summerhill,TAS,7250,1195970.00,House,3,4,4
+226,Lindy,Vandermeer,4244 Lucas Creek Rd,Emu Park,QLD,4710,1196149.00,House,3,3,3
+227,Trina,Bakey,31 Guilford Rd #7904,Duaringa,QLD,4712,1196568.00,Studio,1,1,1
+228,Maryrose,Cove,1 Vogel Rd,Cabramatta,NSW,2166,1196733.00,House,3,1,5
+229,Aide,Ghera,22 Livingston Ave,Rhodes,NSW,2138,1208457.00,House,4,4,5
+230,Curtis,Ware,51 Greenwood Ave,Ridgewood,WA,6030,1208595.00,House,4,4,1
+231,Miles,Feldner,28465 Downey Ave #4238,Barringun,QLD,4490,1208892.00,Studio,1,1,1
+232,Anglea,Andrion,910 21st St,Laura,QLD,4871,1210033.00,House,4,1,5
+233,Sherill,Klar,87 Sylvan Ave,Nyamup,WA,6258,1211722.00,Terrace,2,1,4
+234,Linette,Summerfield,78 S Robson,Crows Nest,QLD,4355,1212327.00,House,3,4,2
+235,Daisy,Kearsey,556 Bernardo Cent,Mount Nasura,WA,6112,1213730.00,House,3,1,5
+236,Dean,Vollstedt,4 Grand St,Muckleford South,VIC,3462,1219427.00,House,5,3,2
+237,Juliann,Dammeyer,6 De Belier Rue,Bouvard,WA,6210,1220060.00,House,3,2,2
+238,Beckie,Apodace,26 Ripley St #5444,Middle Cove,NSW,2068,1221740.00,Studio,1,1,1
+239,Katie,Magro,8 E North Ave,Pagewood,NSW,2035,1223213.00,House,3,4,5
+240,Selma,Elm,6787 Emerson St,Woolamai,VIC,3995,1223843.00,House,5,5,2
+241,Hector,Barras,62 J St #450,Combienbar,VIC,3889,1226941.00,Apartment,4,3,4
+242,Corazon,Grafenstein,3492 88th St,Hill River,WA,6521,1230331.00,House,3,4,1
+243,Stephaine,Manin,8202 Cornwall Rd,Eumundi,QLD,4562,1231717.00,House,2,1,1
+244,Wilburn,Lary,72 Park Ave,Gabbadah,WA,6041,1232011.00,House,5,1,5
+245,Dorinda,Markoff,5 Columbia Pike,Mayfield East,NSW,2304,1234710.00,House,5,3,4
+246,Kent,Ivans,56710 Euclid Ave,Camp Mountain,QLD,4520,1234780.00,House,2,2,1
+247,Shayne,Sundahl,5614 Public Sq,Normanville,SA,5204,1234893.00,House,4,3,3
+248,Dante,Freiman,76 Daylight Way #7,Varsity Lakes,QLD,4227,1240417.00,Apartment,2,2,2
+249,Gladis,Kazemi,3266 Welsh Rd,Varsity Lakes,QLD,4227,1243416.00,House,2,1,4
+250,Ellsworth,Guenther,27730 American Ave,Docklands,VIC,3008,1253067.00,House,2,2,5
+251,Delila,Buchman,361 Via Colinas,Redgate,WA,6286,1262526.00,House,4,1,1
+252,Corrina,Lindblom,1 Westpark Dr,Salter Point,WA,6152,1263518.00,House,3,3,1
+253,Geraldine,Neisius,96 Armitage Ave,Katunga,VIC,3640,1263602.00,House,4,1,1
+254,Kenny,Leicht,245 5th Ave,Nicholls Rivulet,TAS,7112,1269405.00,House,5,3,3
+255,Miesha,Decelles,457 St Sebastian Way #189,Eltham,VIC,3095,1269666.00,Apartment,5,3,3
+256,Aleta,Poarch,5 Liberty Ave,Fosterville,VIC,3557,1270318.00,Terrace,3,3,4
+257,William,Devol,35 Jefferson Ave,Goondi Hill,QLD,4860,1271341.00,House,5,2,4
+258,Tamie,Hollimon,3 Cherokee St,Bobalong,WA,6320,1276288.00,House,3,2,5
+259,Inocencia,Angeron,13386 Tamarco Dr #20,Tawonga,VIC,3697,1280879.00,Apartment,3,2,2
+260,Rupert,Hinkson,1 E 17th St,East Gosford,NSW,2250,1281670.00,Terrace,3,2,3
+261,Shaun,Rael,14304 Old Alexandria Ferry Rd,Buninyong,VIC,3357,1281709.00,Terrace,3,2,3
+262,Kristian,Ellerbusch,71585 S Ayon Ave #9,Wanguri,NT,810,1291038.00,Apartment,4,1,3
+263,Linwood,Wessner,9634 South St,Saltwater River,TAS,7186,1296000.00,House,4,3,5
+264,Janessa,Ruthers,1255 W Passaic St #1553,Bolivia,NSW,2372,1301015.00,Apartment,3,1,2
+265,Leigha,Capelli,8039 Howard Ave,East Toowoomba,QLD,4350,1302771.00,Terrace,4,5,1
+266,Crista,Padua,1607 Laurel St,North Haven,NSW,2443,1304537.00,House,3,1,4
+267,Chara,Leveston,72 N Buckeye Ave,Daisy Hill,VIC,3465,1309719.00,House,4,5,3
+268,Yolande,Scrimsher,71089 Queens Blvd,Canning Vale,WA,6155,1309770.00,House,2,2,5
+269,Gabriele,Frabotta,6 Abbott Rd,Ensay,VIC,3895,1310286.00,House,3,2,2
+270,Ashleigh,Rimmer,15 W 11mile Rd,Boat Harbour Beach,TAS,7321,1311187.00,House,4,5,3
+271,Nadine,Okojie,56 Tank Farm Rd,Kukerin,WA,6352,1315456.00,House,3,1,4
+272,Jarvis,Nicols,5656 N Fiesta Blvd,East Newdegate,WA,6355,1320025.00,House,3,3,2
+273,Yuriko,Kazarian,3 Davis Blvd,Mouroubra,WA,6472,1320674.00,House,2,2,4
+274,Misty,Leriche,5289 Ramblewood Dr,Glen Boughton,QLD,4871,1323381.00,House,3,4,1
+275,Ettie,Luckenbach,2902 Edison Dr #278,Mandurah East,WA,6210,1326783.00,Studio,1,1,1
+276,Wilbert,Beckes,2799 Cajon Blvd,East Nanango,QLD,4615,1332120.00,House,3,1,3
+277,Zack,Warman,9181 E 26th St,Kensington Park,SA,5068,1335995.00,House,4,2,5
+278,Temeka,Bodine,407 E 57th Ave,Clunes,NSW,2480,1337534.00,House,3,5,3
+279,Alida,Helger,6 Hope Rd #10,Pinnacle,QLD,4741,1342693.00,Apartment,4,5,5
+280,Hester,Dollins,4864 N 168th Ave,The Risk,NSW,2474,1344864.00,House,2,2,5
+281,Juan,Knudtson,466 Lincoln Blvd,Clunes,VIC,3370,1346281.00,House,5,3,1
+282,Brigette,Breckenstein,971 Northwest Blvd,Caniambo,VIC,3630,1350300.00,House,2,1,4
+283,Lorita,Roches,32 E Poythress St,Westminster,WA,6061,1357961.00,House,5,5,3
+284,Emmanuel,Avera,3883 N Central Ave,Appin,NSW,2560,1360373.00,House,4,1,1
+285,Alonso,Popper,3175 Northwestern Hwy,Ridgley,TAS,7321,1361990.00,House,3,2,3
+286,Tracie,Huro,39701 6th Ave #1485,Pacific Heights,QLD,4703,1363839.00,Apartment,1,2,5
+287,Jerrod,Luening,6629 Main St,Tea Gardens,NSW,2324,1367113.00,House,4,4,4
+288,Millie,Pirkl,31 Schuyler Ave,Sovereign Hill,VIC,3350,1368826.00,House,3,3,4
+289,Edda,Mcquaide,9 Cron Hill Dr,Boronia,VIC,3155,1369028.00,House,4,5,2
+290,Leah,Milsap,45 Mountain View Ave,Lower Hermitage,SA,5131,1371328.00,House,3,1,4
+291,Marci,Aveline,58 State St #998,Boya,WA,6056,1372699.00,Apartment,1,2,2
+292,Desmond,Tarkowski,5920 E Arapahoe Rd,Andergrove,QLD,4740,1373616.00,House,3,2,4
+293,Pansy,Todesco,684 William St,Tarnagulla,VIC,3551,1374123.00,House,4,4,4
+294,Valda,Levay,7463 Elmwood Park Blvd,Tungkillo,SA,5236,1376752.00,House,3,3,5
+295,Lajuana,Vonderahe,7 Wiley Post Way,Trowutta,TAS,7330,1382754.00,House,2,2,4
+296,Richelle,Remillard,2495 Beach Blvd #557,Buraminya,WA,6452,1383006.00,Studio,1,1,1
+297,Edison,Sumera,52404 S Clinton Ave,Bower,SA,5374,1386960.00,House,4,2,4
+298,Rossana,Biler,60481 N Clark St,Lee Point,NT,810,1387756.00,House,2,2,3
+299,Page,Entzi,63154 Artesia Blvd,Blue Rocks,TAS,7255,1389745.00,House,5,2,3
+300,Aliza,Akiyama,700 Wilmson Rd,Forest Reefs,NSW,2798,1389922.00,House,3,1,1
+301,Stevie,Hallo,22222 Acoma St,Proston,QLD,4613,1390731.00,Terrace,3,1,3
+302,Fanny,Stoneking,50968 Kurtz St #45,Warra,QLD,4411,1393984.00,Apartment,5,1,1
+303,Myrtie,Korba,82 W Market St,Dartnall,WA,6320,1395939.00,House,5,1,2
+304,Malcom,Leja,56232 Hohman Ave,Officer,VIC,3809,1396013.00,House,4,4,2
+305,Gerry,Mohrmann,8 Glenn Way #3,Brockman,WA,6701,1396018.00,Studio,1,1,1
+306,Katheryn,Lamers,62171 E 6th Ave,Fyshwick,ACT,2609,1404886.00,House,3,4,2
+307,Luz,Broccoli,4 S Main St #285,Glenmoral,QLD,4719,1409518.00,Apartment,5,1,3
+308,Cherri,Miccio,3 Bustleton Ave,Balnagowan,QLD,4740,1409801.00,House,2,2,4
+309,Carman,Robasciotti,4 Spinning Wheel Ln,Granya,VIC,3701,1412917.00,House,3,5,2
+310,Alfred,Pacleb,523 N Prince St,Willunga,SA,5172,1417384.00,House,2,1,3
+311,Virgilio,Phay,8494 E 57th St,Stratton,WA,6056,1417840.00,House,3,3,5
+312,Donte,Resureccion,65898 E St Nw,Watsonville,QLD,4887,1420328.00,House,3,1,2
+313,Jamie,Kushnir,3216 W Wabansia Ave,Tuggeranong Dc,ACT,2901,1424500.00,House,5,2,1
+314,Delsie,Ducos,17 Kamehameha Hwy,Cavendish,VIC,3314,1431920.00,House,3,2,4
+315,Adrianna,Poncio,9 34th Ave #69,Bethania,QLD,4205,1434969.00,Studio,1,1,1
+316,Rosina,Sidhu,660 N Green St,Burpengary,QLD,4505,1437333.00,Terrace,1,2,4
+317,Alonzo,Polek,8 S Plaza Dr,Tubbut,VIC,3888,1441050.00,House,5,5,3
+318,Kirby,Litherland,92 South St,Alligator Creek,QLD,4740,1441763.00,House,5,2,4
+319,Clare,Bortignon,73 Dennison St #70,Herron,WA,6210,1441820.00,Apartment,2,1,3
+320,Breana,Cassi,405 W Lee St,Stonehaven,VIC,3221,1446012.00,House,2,2,4
+321,Shawnta,Woodhams,9 Gunnison St,Oakhurst,NSW,2761,1448031.00,House,5,3,4
+322,Julio,Mikel,2803 N Catalina Ave,Pilliga,NSW,2388,1451791.00,House,4,3,4
+323,Idella,Scotland,373 Lafayette St,Cartmeticup,WA,6316,1452509.00,Terrace,1,2,4
+324,Alona,Driesenga,8961 S Central Expy,Stirling Range National Park,WA,6338,1454415.00,House,3,3,4
+325,Kathryn,Bonalumi,86 Worth St #272,Tibradden,WA,6532,1457789.00,Apartment,5,2,5
+326,Lettie,Hessenthaler,76542 W Bijou St,Wurdiboluc,VIC,3241,1460586.00,House,4,3,2
+327,Jessenia,Sarp,5775 Mechanic St #517,Wansbrough,WA,6320,1461075.00,Studio,1,1,1
+328,Grover,Reynolds,2867 Industrial Way,Innaloo,WA,6018,1462048.00,House,3,3,3
+329,Albert,Sonier,4 Brookcrest Dr #7786,Inverlaw,QLD,4610,1471463.00,Apartment,5,5,3
+330,Iola,Baird,48 General George Patton Dr #8611,Goode Beach,WA,6330,1471503.00,Apartment,5,3,3
+331,Hayley,Taghon,72 Wyoming Ave,Eugowra,NSW,2806,1472309.00,Terrace,3,1,5
+332,Vince,Siena,70 S 18th Pl,Purrawunda,QLD,4356,1472751.00,Terrace,2,2,2
+333,Reta,Qazi,1351 Simpson St,Maffra,VIC,3860,1476417.00,House,5,5,1
+334,Soledad,Mockus,75 Elm Rd #1190,Barton,ACT,2600,1479449.00,Studio,1,1,1
+335,Lashawna,Filan,8 Lincoln Way W #6698,Greenhills,WA,6302,1490387.00,Studio,1,1,1
+336,Lachelle,Andrzejewski,262 Montauk Blvd,Cherrybrook,NSW,2126,1493101.00,House,4,3,3
+337,Gracia,Pecot,2452 Bango Rd,Gundaroo,NSW,2620,1495238.00,House,3,2,3
+338,Alysa,Lehoux,186 Geary Blvd #923,Trungley Hall,NSW,2666,1500328.00,Studio,1,1,1
+339,Dominga,Barchacky,3 Ridge Rd W #949,Port Flinders,SA,5495,1500932.00,Studio,1,1,1
+340,Matilda,Peleg,708 S Wilson Way,Weymouth,TAS,7252,1503877.00,House,3,1,4
+341,Norah,Daleo,754 Sammis Ave,Kotara Fair,NSW,2289,1504780.00,Terrace,2,1,3
+342,Tommy,Gennusa,2 New Brooklyn Rd,Concord West,NSW,2138,1507638.00,House,3,3,5
+343,Annette,Breyer,26921 Vassar St,Daradgee,QLD,4860,1507669.00,House,4,1,3
+344,Claudia,Gawrych,3 Wall St #26,Lilli Pilli,NSW,2229,1512293.00,Apartment,5,2,3
+345,Carin,Georgiades,95830 Webster Dr,Trott Park,SA,5158,1512622.00,House,5,1,3
+346,Lynelle,Koury,7696 Carey Ave,Digby,VIC,3309,1523274.00,House,3,1,5
+347,Barabara,Amedro,95412 16th St #6,Yallah,NSW,2530,1524577.00,Apartment,3,3,3
+348,Reuben,Hegland,6 W 39th St,Milton,NSW,2538,1525803.00,House,3,4,3
+349,Ines,Tokich,192 N Sheffield Ave,Bunya Mountains,QLD,4405,1526987.00,House,3,1,1
+350,Osvaldo,Falvey,6434 Westchester Ave #28,Queenton,QLD,4820,1528834.00,Apartment,1,2,3
+351,Deane,Haag,9 Hamilton Blvd #299,Sydney South,NSW,1235,1529086.00,Apartment,4,5,1
+352,Silvana,Whelpley,548 Charmonie Ln,Minyip,VIC,3392,1535041.00,House,3,5,5
+353,Paris,Tuccio,2677 S Jackson St,Kidman Park,SA,5025,1541375.00,House,5,5,1
+354,Jesus,Merkt,1554 Bracken Crk,Licola,VIC,3858,1548522.00,House,4,5,3
+355,Marsha,Farnham,577 Cleveland Ave,Glenmore Park,NSW,2745,1549057.00,House,2,2,2
+356,Werner,Hermens,302 N 10th St #3896,Oakleigh South,VIC,3167,1549104.00,Apartment,4,3,1
+357,Torie,Deras,700 Factory Ave #5649,Yeppoon,QLD,4703,1554612.00,Apartment,1,2,3
+358,Stephania,Connon,297 8th Ave S #9,Gumly Gumly,NSW,2652,1559834.00,Apartment,5,2,1
+359,Ruth,Niglio,6 W Cornelia Ave,Orange Hill,QLD,4455,1562532.00,House,3,1,1
+360,Arlie,Borra,59215 W 80th St,Morundah,NSW,2700,1574379.00,House,3,1,3
+361,Earlean,Suffern,5351 E Thousand Oaks Blvd,Woodford,NSW,2463,1575641.00,House,2,1,4
+362,Serita,Barthlow,190 34th St #8,Nangetty,WA,6522,1577237.00,Apartment,2,1,1
+363,Zena,Daria,57245 W Union Blvd #25,Ivanhoe East,VIC,3079,1577244.00,Apartment,5,3,2
+364,Ben,Majorga,13904 S 35th St,Wherrol Flat,NSW,2429,1578473.00,Terrace,5,5,1
+365,Ivette,Servantes,446 Woodward Ave #1,Reservoir,VIC,3073,1581285.00,Apartment,5,2,5
+366,Sommer,Agar,3 N Ridge Ave,Kadina,SA,5554,1583386.00,Terrace,1,2,3
+367,Ludivina,Calamarino,1456 Hill Rd,Croydon,QLD,4871,1583819.00,House,2,2,3
+368,Sunny,Catton,79346 Firestone Blvd,Gununa,QLD,4871,1593142.00,House,3,4,2
+369,Katlyn,Flitcroft,7177 E 14th St,Maleny,QLD,4552,1593240.00,Terrace,5,2,4
+370,Lashawn,Urion,6 Argyle Rd,Bar Beach,NSW,2300,1594855.00,House,5,5,2
+371,Christene,Cisney,21058 Massillon Rd,Keilor Downs,VIC,3038,1598616.00,House,5,4,4
+372,Nilsa,Pawell,57 N Weinbach Ave,Bundaberg West,QLD,4670,1598735.00,House,5,2,5
+373,Javier,Osmer,6 Ackerman Rd,Doncaster East,VIC,3109,1604553.00,House,2,2,5
+374,Eleonore,Everline,1 Us Highway 206,Kialla East,VIC,3631,1610635.00,House,4,5,4
+375,Cherilyn,Fraize,84826 Plaza Dr,Rose Bay North,NSW,2030,1611618.00,Terrace,3,1,4
+376,Jesus,Liversedge,18514 E 4th St #8,Broken Head,NSW,2481,1615188.00,Studio,1,1,1
+377,Shizue,Hayduk,47 Hall St,Regent West,VIC,3072,1617605.00,House,5,3,1
+378,Zana,Ploszaj,25 Swift Ave,Auchenflower,QLD,4066,1619003.00,Terrace,5,4,2
+379,Fairy,Burket,20 Sw 28th Ter,Fairview Park,SA,5126,1621679.00,House,3,5,2
+380,Veronika,Buchauer,6 Flex Ave,Willow Tree,NSW,2339,1630949.00,House,5,4,4
+381,Mary,Dingler,470 W Irving Park Rd,Bundaberg North,QLD,4670,1631043.00,House,3,2,1
+382,Ena,Desjardiws,60562 Ky Rt 321,Bendick Murrell,NSW,2803,1632713.00,Terrace,2,2,2
+383,Sherrell,Sprowl,2 State Hwy,Oak Flats,NSW,2529,1633654.00,House,2,2,4
+384,Scot,Jarva,68 Camden Rd,Kingswood,NSW,2550,1636546.00,House,3,4,5
+385,Bettyann,Fernades,54648 Hylan Blvd #883,Tibradden,WA,6532,1639317.00,Studio,1,1,1
+386,Wenona,Carmel,44 Bush St,Grosvenor Place,NSW,1220,1642034.00,House,5,5,4
+387,Michel,Hoyne,11408 Green St,Elizabeth West,SA,5113,1643275.00,House,4,4,4
+388,Felix,Bumby,82 Tremont St #4,Baddaginnie,VIC,3670,1645597.00,Apartment,4,2,2
+389,Cassie,Soros,67765 W 11th St,Yelverton,WA,6280,1647561.00,Terrace,1,2,1
+390,Buck,Pascucci,5 Shakespeare Ave,Kingswood,SA,5062,1648747.00,House,2,2,2
+391,Bettina,Diciano,11999 Main St,Dripstone,NSW,2820,1649771.00,House,5,4,4
+392,Naomi,Tuamoheloa,85 S Washington Ave,Muja,WA,6225,1662055.00,House,4,5,3
+393,Emelda,Geffers,95431 34th Ave #62,Nedlands,WA,6909,1663582.00,Apartment,3,5,5
+394,Noelia,Brackett,403 Conn Valley Rd,Castletown,WA,6450,1663743.00,House,5,2,5
+395,Mabelle,Ramero,15258 W Charleston Blvd,Aroona,QLD,4551,1663816.00,House,4,2,2
+396,Halina,Dellen,3318 Buckelew Ave,Appila,SA,5480,1665489.00,House,4,2,4
+397,Brice,Bogacz,76 San Pablo Ave,Sedan,SA,5353,1665608.00,House,2,2,2
+398,Jeffrey,Leuenberger,564 Almeria Ave #7474,Pedler Creek,SA,5171,1665918.00,Apartment,1,2,3
+399,Ling,Dibello,6 Monte Ave,Beelbi Creek,QLD,4659,1666172.00,House,3,1,5
+400,Sang,Weigner,9 W Passaic St,Heidelberg Rgh,VIC,3081,1667152.00,House,4,3,2
+401,Lavonne,Esco,377 Excalibur Dr,East Melbourne,VIC,3002,1670884.00,Terrace,1,1,4
+402,Trina,Oto,6149 Kapiolani Blvd #6,Placid Hills,QLD,4343,1672273.00,Apartment,5,1,5
+403,Kris,Medich,94843 Trabold Rd #59,Shannon,TAS,7030,1676634.00,Studio,1,1,1
+404,Nancey,Whal,398 Fort Campbell Blvd #923,Cudgera Creek,NSW,2484,1685303.00,Apartment,4,3,3
+405,Madelyn,Maestri,60 S 4th St,Rouse Hill,NSW,2155,1688046.00,House,5,4,2
+406,Alberta,Motter,33108 S Yosemite Ct,Port Melbourne,VIC,3207,1692676.00,House,3,1,3
+407,Lou,Kriner,39 Broad St,Seaforth,NSW,2092,1707625.00,House,3,4,5
+408,Samuel,Arellanes,286 Santa Rosa Ave,Lane Cove,NSW,1595,1708356.00,House,4,1,1
+409,Yuette,Metevelis,8219 Roswell Rd Ne,North Boyanup,WA,6237,1708482.00,House,5,5,4
+410,Barb,Latina,1 National Plac #6619,Larrakeyah,NT,820,1715056.00,Studio,1,1,1
+411,Hyman,Phinazee,42741 Anania Dr,Beltana,SA,5730,1718556.00,House,3,2,3
+412,Edelmira,Pedregon,50638 Northwest Blvd,Bandy Creek,WA,6450,1718777.00,House,5,2,2
+413,Kizzy,Stangle,8 W Lake St #1,Welbungin,WA,6477,1720284.00,Apartment,2,1,1
+414,Lisbeth,Agney,1 El Camino Real #603,Hindmarsh,WA,6462,1727088.00,Apartment,4,3,1
+415,Denae,Saeteun,52680 W Hwy 55 #59,Moorabbin Airport,VIC,3194,1732887.00,Studio,1,1,1
+416,Tamala,Hickie,351 Crooks Rd,Benambra,VIC,3900,1735058.00,House,5,3,1
+417,Magnolia,Overbough,65484 Bainbridge Rd,Penrith,NSW,2750,1735160.00,House,4,4,5
+418,Ira,Zihal,6 W Meadow St,Degilbo,QLD,4621,1738228.00,House,2,2,3
+419,Elenor,Siefken,136 2nd Ave N,Cairns City,QLD,4870,1744584.00,House,4,3,4
+420,Camellia,Pylant,570 W Pine St,Tuggerawong,NSW,2259,1746374.00,Terrace,1,2,1
+421,Robt,Blanck,790 E Wisconsin Ave,Woodbury,TAS,7120,1747866.00,House,5,2,3
+422,Jonelle,Epps,52347 San Fernando Rd,Coppabella,QLD,4741,1751486.00,House,4,4,3
+423,Sharita,Kruk,8808 Northern Blvd,Merrylands,NSW,2160,1760704.00,House,3,3,5
+424,Clement,Chee,5159 Saint Ann St,Golden Point,VIC,3451,1763961.00,House,2,2,3
+425,Victor,Laroia,166 N Maple Dr,Scotts Head,NSW,2447,1766865.00,House,2,2,1
+426,Phung,Krome,847 Norristown Rd,Longford,TAS,7301,1769283.00,House,5,4,1
+427,Ariel,Stavely,6 7th St,Scottsdale,TAS,7260,1770345.00,House,3,5,2
+428,Susana,Baumgarter,7 Elm Ave,Yanco,NSW,2703,1775535.00,House,3,2,4
+429,Wava,Ochs,9 Chandler Ave #355,Bawley Point,NSW,2539,1776738.00,Studio,1,1,1
+430,Nikita,Novosel,70 W Market St #20,Hamlyn Heights,VIC,3215,1777225.00,Apartment,5,2,4
+431,Clarence,Gabbert,35983 Daubert St,Verges Creek,NSW,2440,1781286.00,House,3,3,5
+432,Lillian,Dominique,92417 Arbuckle Ct,Julia Creek,QLD,4823,1783206.00,House,3,1,1
+433,Nida,Fitz,17720 Beach Blvd,Oxley,QLD,4075,1786744.00,House,3,5,3
+434,Jonell,Biasi,75 Ryan Dr #70,Duramana,NSW,2795,1791720.00,Apartment,2,2,4
+435,Ben,Kellman,30024 Whipple Ave Nw,Berrilee,NSW,2159,1792338.00,House,3,1,2
+436,Mica,Simco,5610 Holliday Rd,Brigalow,QLD,4412,1793586.00,House,5,3,1
+437,Jackie,Kellebrew,25 Sw End Blvd #609,Coominya,QLD,4311,1797880.00,Apartment,5,5,2
+438,Tamekia,Kajder,16 Talmadge Rd,West Tamworth,NSW,2340,1799275.00,House,3,3,4
+439,Stefan,Mongolo,2 Pennington St,Port Adelaide,SA,5015,1801064.00,House,4,3,3
+440,Gerri,Perra,15126 Goldenwest St,Toowoomba South,QLD,4350,1810591.00,House,5,3,5
+441,Launa,Vanauken,30338 S Dunworth St,Peake,SA,5301,1810831.00,House,4,5,5
+442,Kanisha,Reyelts,9 Taylor Ave,Holwell,TAS,7275,1813616.00,House,2,2,2
+443,Lashonda,Langanke,667 S Highland Dr #4,Simson,VIC,3465,1818364.00,Apartment,2,2,2
+444,Dortha,Vrieze,654 Seguine Ave,White Hills,TAS,7258,1819580.00,House,3,1,3
+445,Suzan,Landa,15 Campville Rd #191,Clermont,QLD,4721,1821449.00,Apartment,3,1,1
+446,Mose,Vonseggern,1 E Main St,Hungerford,QLD,4493,1827641.00,House,2,2,1
+447,Tijuana,Mesch,61 Center St #8,Corella,QLD,4570,1830264.00,Apartment,2,2,1
+448,Ronald,Grube,73778 Battery St,Happy Valley,SA,5159,1839905.00,House,3,4,4
+449,Samira,Heninger,40490 Morrow St,Bluff,QLD,4702,1843440.00,House,4,1,4
+450,Wai,Raddle,2 Stirrup Dr #4907,Carlsruhe,VIC,3442,1844481.00,Studio,1,1,1
+451,Margurite,Okon,32 Broadway St,Lanena,TAS,7275,1846964.00,House,2,2,5
+452,Barrie,Nicley,4129 Abbott Dr,Fish Creek,VIC,3959,1848207.00,Terrace,4,3,4
+453,Delfina,Binnie,8 Austin Bluffs Pky,Bimbijy,WA,6472,1850442.00,House,4,5,5
+454,Artie,Saine,41 Washington Blvd,Cora Lynn,VIC,3814,1851707.00,House,3,1,1
+455,Farrah,Malboeuf,803 Tupper Ln,Ringwood,VIC,3134,1855654.00,House,3,5,2
+456,Lamonica,Princiotta,29133 Hammond Dr #1,Beermullah,WA,6503,1860475.00,Studio,1,1,1
+457,Francis,Senters,4562 Aurora Ave N,Heidelberg Rgh,VIC,3081,1861285.00,House,5,2,5
+458,Moira,Qadir,661 Plummer St #963,Arno Bay,SA,5603,1863270.00,Apartment,3,1,3
+459,Rodrigo,Schuh,512 E Idaho St,Burrier,NSW,2540,1871291.00,House,3,1,3
+460,Princess,Saffo,12398 Duluth St,Auburn,NSW,1835,1873339.00,House,4,3,3
+461,Johanna,Saffer,750 Lancaster Ave,Campsie,NSW,2194,1879598.00,House,4,4,2
+462,Maryann,Tates,75700 Academy Rd,Cramphorne,WA,6420,1883700.00,House,3,2,2
+463,Shawn,Vugteveen,81 Us Highway 9,Etty Bay,QLD,4858,1884641.00,House,5,1,4
+464,Nidia,Horr,2 W Henrietta Rd #6,Paluma,QLD,4816,1886991.00,Apartment,1,2,5
+465,Lauran,Huntsberger,41 E Jackson St,Willetton,WA,6155,1888541.00,House,2,1,3
+466,Cordie,Meikle,40809 Rockburn Hill Rd,Hamlyn Terrace,NSW,2259,1888817.00,House,3,1,5
+467,Novella,Fritch,5 Ellestad Dr,Girraween,NSW,2145,1890599.00,House,2,2,5
+468,Rosamond,Amlin,5399 Mcwhorter Rd,Calala,NSW,2340,1901008.00,House,4,5,2
+469,Gerald,Kloepper,42 United Dr,Pierces Creek,QLD,4355,1905659.00,House,5,5,5
+470,Johana,Conquest,19 Court St,Paulls Valley,WA,6076,1910325.00,House,2,2,1
+471,Rolf,Gene,99968 Merced St #79,Flinders,NSW,2529,1910919.00,Apartment,1,1,4
+472,Lorenza,Schoenleber,562 Nw Cornell Rd,Humpty Doo,NT,836,1911644.00,House,3,3,2
+473,Kathrine,Francoise,30691 Poplar Ave #4,Indented Head,VIC,3223,1915748.00,Studio,1,1,1
+474,Melinda,Fellhauer,8275 Calle De Industrias,Wayatinah,TAS,7140,1917589.00,House,5,4,2
+475,Chaya,Muhlbauer,44009 W 63rd #269,North Dandalup,WA,6207,1928231.00,Apartment,1,2,4
+476,Christiane,Osmanski,85 Nw Frontage Rd,Williamstown,WA,6430,1928593.00,House,2,2,4
+477,Tammi,Schiavi,78 Sw Beaverton Hillsdale H,Willetton,WA,6155,1930745.00,House,5,2,3
+478,Winifred,Kingshott,532 Saint Marks Ct,Marshdale,NSW,2420,1932113.00,House,4,1,2
+479,Adelaide,Ender,175 N Central Ave,Greenslopes,QLD,4120,1936728.00,House,4,5,5
+480,Dana,Ladeau,63 W 41st Ave #93,Pinnacle,QLD,4741,1937190.00,Studio,1,1,1
+481,Deeann,Nicklous,79 Mechanic St,Pimpimbudgee,QLD,4615,1940233.00,House,4,2,4
+482,Latricia,Schmoyer,6 Central Ave #4,Woodville,SA,5011,1946974.00,Apartment,2,2,2
+483,Lynette,Beaureguard,630 E Plano Pky,Tarawera,QLD,4494,1949785.00,House,5,4,5
+484,Nickole,Derenzis,2 Pompton Ave,Berowra Heights,NSW,2082,1953188.00,House,2,2,4
+485,Genevive,Sanborn,78 31st St,Bellangry,NSW,2446,1954193.00,House,2,2,4
+486,Glory,Carlo,50808 A Pamalee Dr,Grange,QLD,4051,1956977.00,House,3,1,2
+487,Bettye,Meray,248 Academy Rd,Middleton,TAS,7163,1960626.00,House,4,4,1
+488,Kristin,Shiflet,503 Fulford Ave,Somers,VIC,3927,1964106.00,House,4,3,3
+489,Charlena,Decamp,8 Allied Dr,Burnside,WA,6285,1966639.00,House,2,2,5
+490,Craig,Vandersloot,3 S Willow St #82,Bygalorie,NSW,2669,1967205.00,Apartment,2,1,2
+491,Carlota,Gephardt,96605 Pioneer Rd,Kundabung,NSW,2441,1969215.00,House,4,2,4
+492,Ramonita,Picotte,504 Steve Dr,Weston,NSW,2326,1970686.00,House,4,1,2
+493,Hildred,Eilbeck,83 Longhurst Rd,Longwood,SA,5153,1978206.00,House,3,2,4
+494,Jean,Cecchinato,7 Hugh Wallis Rd,Koolan Island,WA,6733,1979455.00,Terrace,3,5,5
+495,Mayra,Bena,808 Glen Cove Ave,Lane Cove,NSW,1595,1980355.00,Terrace,5,3,2
+496,Rocco,Bergstrom,850 Warwick Blvd #58,Leeman,WA,6514,1983885.00,Studio,1,1,1
+497,Bea,Iida,72 W Ripley Ave,Oakey,QLD,4401,1989733.00,House,5,3,4
+498,Johnson,Mcenery,7 Hall St,Nambucca Heads,NSW,2448,1991617.00,House,5,3,5
+499,Jackie,Borchelt,80896 South Ave,Grovedale,VIC,3216,1992057.00,House,4,5,2
+500,Skye,Culcasi,82655 Shawnee Mission Pky #5798,Barnawartha,VIC,3688,1999290.00,Apartment,1,2,2
