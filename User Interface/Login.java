@@ -117,7 +117,7 @@ public class Login extends JFrame {
 		aolong.setPassword("fsd111");
 		User nigel = new User("nigel");
 		nigel.setPassword("fsd222");
-		User tony = new User("tony"):
+		User tony = new User("tony");
 		tony.setPassword("fsd333");
 		users.add(aolong);
 		users.add(nigel);
