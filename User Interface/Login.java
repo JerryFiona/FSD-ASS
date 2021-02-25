@@ -113,15 +113,15 @@ public class Login extends JFrame {
 	public static Boolean loginCheck(String username, String password) 
 	{
 		ArrayList<User> users = new ArrayList<User>();
-		User aolong = new User("aolong");
+		User aolong = new User("A");
 		aolong.setPassword("fsd111");
-		User nigel = new User("nigel");
+		User nigel = new User("B");
 		nigel.setPassword("fsd222");
-		User tony = new User("tony");
+		User tony = new User("C");
 		tony.setPassword("fsd333");
-		users.add(aolong);
-		users.add(nigel);
-		users.add(tony);
+		users.add(A);
+		users.add(B);
+		users.add(C);
 		int i;
 		User s;
 		for (i = 0; i < users.size(); i++ )
