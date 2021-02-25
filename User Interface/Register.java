@@ -135,18 +135,18 @@ public class Register extends JFrame {
 	public static Boolean RegisterCheck(String username, String password, String password2, String email, String phoneNumber) 
 	{
 		ArrayList<User> users = new ArrayList<User>();
-		User aolong = new User("aolong");
-		aolong.setEmail("aolong@student.uts.edu.au");
+		User aolong = new User("A");
+		aolong.setEmail("A@student.edu.au");
 		aolong.setPhoneNumber("0401234567");
-		User nigel = new User("nigel");
-		nigel.setEmail("nigel@student.uts.edu.au");
+		User nigel = new User("B");
+		nigel.setEmail("B@student.edu.au");
 		nigel.setPhoneNumber("0412345678");
-		User tony = new User("tony");
-		tony.setEmail("tony@student.uts.edu.au");
+		User tony = new User("C");
+		tony.setEmail("C@student.edu.au");
 		tony.setPhoneNumber("0423456789");
-		users.add(aolong);
-		users.add(nigel);
-		users.add(tony);
+		users.add(A);
+		users.add(B);
+		users.add(C);
 		int i;
 		User s;
 		for (i = 0; i < users.size(); i++ )
