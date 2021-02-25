@@ -8,8 +8,8 @@ import java.util.Scanner;
 
 public class Property {
 	public static final String URL = "jdbc:mysql://localhost/FSD ?serverTimezone=Australia/Sydney";
-    public static final String USER = "Aolong";
-    public static final String PASSWORD = "32555fsd";
+    public static final String USER = "A";
+    public static final String PASSWORD = "fsd";
     public static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
    	
 	public static void main(String[] args) {
